@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Next">NEXT</string>
+    <string name="signup">LOGIN </string>
+    <string name="new_account">Already have a account?</string>
+    <string name="descriptionone">We are family owned recipes served with a modern twist </string>
+</resources>
